@@ -1,16 +1,15 @@
-
 """
-new python project description
+robo-base - primary objects 
 """
 
-# flit uses this as one source version #
-# note: pep whatever doesnt like > 'x.y.<number>c'
-# for example: 0.01.08d doesnt fly building from pyproject.toml
+# flit uses __version__ as one source version 
 
-__version__ = '0.01.09'
+__version__ = 'v0.01.01a'
 
 # import acts to export 
 
-from .code import Project
+from .object import Object
+from .system import System
+
 
 
