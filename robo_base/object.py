@@ -1,10 +1,10 @@
 #
-#mk
 #
-#was ooject.py
-
-# v0.01.07a
-
+# Object - primary primordal base class 
+#
+# (c) 2022 - 2023  Mike Knerr
+#
+#
 
 import os 
 
@@ -17,7 +17,7 @@ class Object(object):
          self._id = id(self)
          self._name="Object"
          self._desc="Object - primordal base class"
-         self._vers="v0.01.07a"
+         self._vers="v0.01.07a" 
          self._model = "" # more for derived classes
          self._about="About object class"
          self._instance_name = ""
@@ -55,7 +55,9 @@ class Object(object):
     
      def setDesc(self,d):
          self._desc = d
-     
+
+     # not on the public inteface
+     # hard code this one 
      #def setVers(self,v):
      #    self._vers =v
          
