@@ -1,22 +1,26 @@
+#
+#
+# system - system related classes & functions
+#
+# (c) 2022 - 2023  Mike Knerr
+#
+#
+
 ## other promordal classes
 
 from object import Object
 
 class System(Object):
-    # basically so far
-    # common shell commands on
-    # underlying OS/HW system
-    # not the robots internal os/shell
+    # so far just a wrapper for some 
+    # common shell commands from underlying OS/HW system
+    # not the robots interface shell yet
 
-   # def __init__(self):
     def __init__(self): #v0.07
-    
-       # super(Sensor, self).__init__()
         super(System, self).__init__()
          
-        self._name = "SystemShell"
+        self._name = "System"
         self._desc = "OS/HW System shell functions"
-        self._vers = "v0.01.01"  
+        self._vers = "v0.01.01a"  
         self._model = ""
         
     def kernelVersion(self):
