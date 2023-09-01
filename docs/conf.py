@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "Project Template for RTD Sphinx & Python Packages"
+project = "Base objects for mobile robotics modules"
 copyright = "(c) 2023 Mike Knerr"
 author = ""
 
