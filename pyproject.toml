@@ -13,7 +13,7 @@ license = {text = "MIT"}
 #license = LICENSE.md" =
 license-files = ['LICENSE*']
 requires-python = ">=3.6"
-keywords = ["python", "packages", "pypi", "RTD", "Sphinx"]
+keywords = ["python", "robotics", "system",]
 classifiers = [
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: MIT License",
