@@ -1,7 +1,7 @@
 **robo-base**
 
 
-Base classes required for mobile robotics modules
+Base objects required for mobile robotics modules
 
 
 
