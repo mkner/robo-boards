@@ -2,22 +2,16 @@ Documentation
 ------------------------
 
 
+robo-base
+*********
 
-new-pyproject
-*************
-
-
-A basic template for creating a RTD sphinx documentation
-that actually builds! 
-
-This is the top level index page for:
+Base classes for mobile robotics modules.
 
 .. toctree::
    :maxdepth: 1
 
    install
-   interface
-   examples
+  
 
 
 
