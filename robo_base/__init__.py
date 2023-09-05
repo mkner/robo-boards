@@ -4,7 +4,7 @@ robo-base - primary objects
 
 # flit uses __version__ as one source version 
 
-__version__ = 'v0.01.03a'
+__version__ = 'v0.01.03b'
 
 # import acts to export 
 
