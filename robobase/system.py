@@ -9,6 +9,7 @@
 ## other promordal classes
 
 from .object import Object
+import os
 
 class System(Object):
     # so far just a wrapper for some 
