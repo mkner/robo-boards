@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "Base objects for mobile robotics modules"
+project = "Roboboards - Interface modules for microprocessor boards"
 copyright = "(c) 2023 Mike Knerr"
 author = ""
 
