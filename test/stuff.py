@@ -1,20 +1,12 @@
 
-# the usual
+# the usual,eg
 
-import new_pyproject
+from robotime.test import *
 
-from new_pyproject import Project
+vers()
 
-p = Project()
+up()
 
-p.name()
-#Out[5]: 'Project'
+ts()
 
-p.desc()
-#Out[6]: 'new python project class'
-
-p.vers()
-#Out[7]: 'v0.01.07'
-
-p.f(2)
 
