@@ -13,12 +13,17 @@ For example:
    from roboboards import Arduino # UNO
   
    mcb = Arduino()
-  
+
    mcb.whoami()
    Arduino v0.01.12c 
 
    mcb.clock.uptime()
    00:02:19
+
+   mcb.startup()
+    Searching for connection port...
+    IoComm found port  /dev/ttyACM0
+    IoComm connecting...
 
    mcb.listAllPins()
      0 -----
