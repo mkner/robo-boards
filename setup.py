@@ -4,7 +4,7 @@ from setuptools import Command, Extension, setup
 from setuptools.command.build_ext import build_ext
 
 
-DISTNAME = "robo-base"
+DISTNAME = "robo-boards"
 #DESCRIPTION = "primary base object"
 
 if __name__ == "__main__":
@@ -12,7 +12,7 @@ if __name__ == "__main__":
  
 #mk  works
 
-import robobase
+import roboboards
 
 #import robo_base as robobase
 
