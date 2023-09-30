@@ -2,10 +2,10 @@ Documentation
 ------------------------
 
 
-robo-base
-*********
+robo-boards
+***********
 
-Base classes required for mobile robotics modules
+mobile robotics modules for microprocessor boards
 
 .. toctree::
    :maxdepth: 1
