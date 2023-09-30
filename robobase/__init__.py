@@ -1,15 +1,13 @@
 """
-robo-base - primary objects 
+robo-boards - 
 """
 
-# flit uses __version__ as one source version 
-
-__version__ = 'v0.01.04a'
+__version__ = 'v0.01.01'
 
 # import acts to export 
 
-from .object import Object
-from .system import System
+#from .object import Object
+#from .system import System
 
 #
 
