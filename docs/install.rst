@@ -7,4 +7,4 @@ To use this project, first install it using pip:
 
 .. code-block:: console
 
-    $ pip install robo-base
+    $ pip install robo-boards
