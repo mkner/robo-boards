@@ -1,3 +1,11 @@
+#
+#
+# robo-boards - i/o modules for microprocessor boards
+# for mobile robotics and related applications
+#
+# (c) 2022 - 2023  Mike Knerr
+#
+# 
 
 
 import numpy as np
@@ -10,3 +18,4 @@ from robotime.time import delay
 #import ioboardlayouts
 
 #from ioboard import IoBoard
+
