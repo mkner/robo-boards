@@ -8,13 +8,15 @@ Arduino
 
 For example:
 
-from roboboards import Arduino # UNO
-
-mcb = Arduino()
-
-mcb.whoami()
-
-mcb.vers()
+.. code-block:: python
+   
+   from roboboards import Arduino # UNO
+  
+   mcb = Arduino()
+  
+   mcb.whoami()
+   mcb.vers()
+   mcb.clock.uptime()
 
 
 
