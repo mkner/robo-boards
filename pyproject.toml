@@ -2,9 +2,12 @@
 # minimal when using setup.cfg
 
 [build-system]
-# Minimum requirements for the build system to execute.
+# Minimum requirements for the build system to run
 requires = [
-    "setuptools",
-    "wheel",]
+   "setuptools",
+   "wheel",
+   "numpy",
+   "robo-base",]
+
     
   
