@@ -1,4 +1,4 @@
-**robo-base**
+**robo-boards**
 
 
 Mobile robotics 
