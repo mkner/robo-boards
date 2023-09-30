@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = "Roboboards - Interface modules for microprocessor boards"
-copyright = "(c) 2023 Mike Knerr"
+copyright = "(c) 2022-2023 Mike Knerr"
 author = ""
 
 
