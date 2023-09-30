@@ -2,7 +2,7 @@
 robo-boards - 
 """
 
-__version__ = 'v0.01.01a'
+__version__ = 'v0.01.01b'
 
 from . import roboboards
 
