@@ -2,7 +2,9 @@
 robo-boards - 
 """
 
-__version__ = 'v0.01.01'
+__version__ = 'v0.01.01a'
+
+from . import roboboards
 
 # import acts to export 
 
