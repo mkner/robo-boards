@@ -4,7 +4,7 @@ Interface
 
  .. method:: name()
 
-  returns name of class
+  returns name
 
 
  .. method:: desc()
