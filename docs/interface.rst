@@ -9,12 +9,12 @@ Interface
 
  .. method:: desc()
 
-  returns short description of class
+  returns short description 
 
 
  .. method:: vers()
 
-   returns version number of class
+   returns version number 
 
 
 
