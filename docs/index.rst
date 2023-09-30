@@ -11,6 +11,8 @@ mobile robotics modules for microprocessor boards
    :maxdepth: 1
 
    install
+   examples
+
   
 
 
